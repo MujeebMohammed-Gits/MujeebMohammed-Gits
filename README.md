@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./MujzAI_YT.jpg" alt="mujzAI — AI & Agile Future of Tech | Mujeeb Mohammed" width="100%" />
+
+<br/><br/>
+
 # Hi, I'm Mujeeb Mohammed 👋
 
 **Agile Delivery & Transformation Leader  •  Builder of Production Agentic AI Delivery Applications**
