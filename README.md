@@ -8,7 +8,7 @@
 
 **Agile Delivery & Transformation Leader  •  Builder of Production Agentic AI Delivery Applications**
 
-**[🔗 LinkedIn: Mujeeb Mohammed](https://linkedin.com)** &nbsp;•&nbsp; **[▶️ YouTube: @MujeebAgenticAI](https://youtube.com)** &nbsp;•&nbsp; **[🚀 Live App: AI Role Agents](https://vercel.app)**
+**[🔗 LinkedIn: Mujeeb Mohammed](https://linkedin.com/in/mujeeb-mohammed)** &nbsp;•&nbsp; **[▶️ YouTube: @mujzAgenticAIDelivery](https://youtube.com/@mujzAgenticAIDelivery)** &nbsp;•&nbsp; **[🚀 Live App: AI Role Agents](https://ai-role-agents.vercel.app)**
 
 
 
