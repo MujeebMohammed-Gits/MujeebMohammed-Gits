@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./MujzAI_YT.jpg" alt="mujzAI — AI & Agile Future of Tech | Mujeeb Mohammed" width="100%" />
+<img src="./MujzAI.jpg" alt="mujzAI — AI & Agile Future of Tech | Mujeeb Mohammed" width="100%" />
 
 <br/><br/>
 
