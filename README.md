@@ -8,9 +8,9 @@
 
 **Agile Delivery & Transformation Leader  •  Builder of Production Agentic AI Delivery Applications**
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![YouTube](https://shields.io)](https://youtube.com)
-[![Live App](https://shields.io)](https://vercel.app)
+[![LinkedIn](https://shields.io)]([https://www.linkedin.com/in/mujeeb-mohammed/])
+[![YouTube](https://shields.io)]([https://www.youtube.com/@mujzAgenticAIDelivery])
+[![Live App](https://shields.io)]([https://ai-role-agents.vercel.app/])
 
 
 </div>
